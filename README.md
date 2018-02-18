@@ -2,7 +2,7 @@
 
 For build and run app You need to create the .babelrc file for babel which contains the following code:
 {
-  "presets": ["env"]
+  "presets": ["env", "react"]
 }
 
 after
@@ -13,4 +13,4 @@ after
 
 or
 
-you can use files in "dist" folder and just run the index.html file
+you can use files in "public" folder and just run the index.html file
