@@ -18,3 +18,5 @@ or
 or
 
 you can use files in "public" folder and just run the index.html file
+
+Demo: http://react-flickr-api.surge.sh
