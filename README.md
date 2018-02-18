@@ -13,4 +13,8 @@ after
 
 or
 
+1. npm run build - for building app
+
+or
+
 you can use files in "public" folder and just run the index.html file
